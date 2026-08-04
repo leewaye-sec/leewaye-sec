@@ -28,5 +28,3 @@ Cybersecurity-focused IT professional building projects in:
 ## Certifications
 - Security+
 
-## Connect
-- LinkedIn: https://www.linkedin.com/in/katie-leewaye/
