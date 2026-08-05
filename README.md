@@ -1,30 +1,38 @@
-## Hi! I'm Leewaye (or kleewaye) 👋
+# Hi! I'm Leewaye (or kleewaye) 👋
 
-Cybersecurity-focused IT professional building projects in:
+Security Engineer | Offensive Systems Engineering
 
-- Python Automation
-- Threat Detection
-- System Hardening
-- DevSecOps
-- Cloud Security 
+I believe understanding systems is more valuable than memorizing tools. My goal for these repositories is to focus on implementing low-level concepts from scratch to understand how operating systems, executable formats, debuggers, and exploit mitigations actually work.
 
 ## Current Focus
-- AWS security tooling
-- Detection engineering
-- AI security agents
-- Terraform security scanning
 
-## Technologies
-- Python
-- Bash
-- Linux
-- GitHub Actions
-- ELK Stack
-- C++
+I'm working to build a two-year curriculum centered around:
 
-## Featured Projects
-- Coming Soon
+- Modern C++
+- Windows Internals
+- x86-64 Assembly
+- Reverse Engineering
+- Exploit Development
+- Fuzzing
+- Vulnerability Research
 
-## Certifications
-- Security+
+## Current Project
 
+→ windows-pe-parser
+
+## Learning Roadmap
+
+→ offensive-systems-engineering
+
+## Current Reading
+
+- Windows Internals
+- Practical Binary Analysis
+- Intel SDM
+
+## Previous Experience
+
+- 7 years Linux
+- Defensive Security
+- Python Automation
+- Networking
